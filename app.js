@@ -15,6 +15,7 @@ const c1 = new Calc()
 // c.drive()
 
 // c1.plus(1,1)
+//////
  c1.minus1()
 
 const sentence = 'I can see the mountain';
